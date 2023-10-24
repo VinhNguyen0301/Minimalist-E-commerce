@@ -1,6 +1,6 @@
 import "./Navbar.css";
 
-import LogoImg2 from "../img/newlogo2.png";
+import LogoImg2 from "../img/hieulogo.png";
 import { Link } from "react-router-dom";
 import { useContext, useState } from "react";
 import CartWithItems from "./CartWithItems";
